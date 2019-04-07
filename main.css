@@ -10,6 +10,13 @@
   display: inline;
 }
 
+.nav pull-left {
+  position: left
+}
+.nav pull-right {
+  position: right
+}
+
 .jumbotron {
   background-image: url(https://www.libertypuzzles.com/userfiles/media/images/6199/starry-night-large-piece-puzzle-XL.jpg);
   height: 500px;
